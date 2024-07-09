@@ -33,3 +33,9 @@ Python 3.9
 Jupyter Notebook
 
 
+### References:
+https://medium.com/dbsql-sme-engineering/visualizing-a-billion-points-databricks-plotly-dash-and-the-plotly-resampler-45461bc3f466
+https://medium.com/plotly/build-real-time-production-data-apps-with-databricks-plotly-dash-269cb64b7575
+
+
+
